@@ -1,0 +1,20 @@
+.cardbox{
+    margin-left:1in ;
+    transition: transform 0.3s;
+    margin: 30px;
+    max-height: min-content;
+      width: 90%;
+}
+.cardbox:hover{
+    transform:scale(1.05);
+}
+.title{
+   padding-top: 10px;
+   
+}
+.card-img-top{
+    margin-left: 50px;
+}
+.pict{
+    width:60%;
+}
